@@ -8,7 +8,7 @@ Repositorio base para la clase de Programación en Realidad Virtual. Este proyec
 
 ## 🛠️ Requisitos Técnicos
 
-Para evitar problemas de compatibilidad durante la sesión de 60 minutos, asegúrate de cumplir con los siguientes requisitos antes de abrir el proyecto:
+Para evitar problemas de compatibilidad durante la sesión, asegúrate de cumplir con los siguientes requisitos antes de abrir el proyecto:
 
 *   **Motor Gráfico:** Unity `[6000.3.24f1]
 *   **SDKs Preinstalados en el proyecto:** XR Interaction Toolkit (XRI), OpenXR Plugin.
